@@ -1,0 +1,42 @@
+[
+  {
+    "id": "booking-A",
+    "reader": "p-1",
+    "mode": "audio",
+    "variant": [
+      "audio"
+    ],
+    "unit": "reader-5",
+    "served_section": [
+      "intro"
+    ],
+    "day": 12
+  },
+  {
+    "id": "booking-B",
+    "reader": "p-2",
+    "mode": "visual",
+    "variant": [
+      "visual",
+      "large_print"
+    ],
+    "unit": "reader-5",
+    "served_section": [],
+    "day": 16
+  },
+  {
+    "id": "remedy-A",
+    "booking": "booking-A",
+    "category": "repeat_remaining",
+    "confirmed_site": null
+  },
+  {
+    "id": "remedy-cap",
+    "mode": "audio",
+    "period": [
+      15,
+      19
+    ],
+    "available": 1
+  }
+]

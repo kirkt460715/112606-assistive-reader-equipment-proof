@@ -1,0 +1,21 @@
+[
+  {
+    "id": "reader-5",
+    "site": "room-A",
+    "attachment": "speaker-a"
+  },
+  {
+    "id": "move-a",
+    "unit": "reader-5",
+    "to": "room-B",
+    "attachment": "speaker-c",
+    "actual": 11
+  },
+  {
+    "id": "held-b",
+    "unit": "reader-6",
+    "site": "room-B",
+    "reserved": "booking-C",
+    "day": 16
+  }
+]

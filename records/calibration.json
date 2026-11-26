@@ -1,0 +1,40 @@
+[
+  {
+    "id": "cert-A",
+    "unit": "reader-5",
+    "mode": [
+      "visual",
+      "audio"
+    ],
+    "attachments": [
+      "speaker-a"
+    ],
+    "valid": [
+      1,
+      25
+    ]
+  },
+  {
+    "id": "cert-err",
+    "for": "cert-A",
+    "supported_modes": [
+      "visual"
+    ],
+    "received": 15,
+    "from": 3
+  },
+  {
+    "id": "cert-B",
+    "unit": "reader-6",
+    "mode": [
+      "audio"
+    ],
+    "attachments": [
+      "speaker-b"
+    ],
+    "valid": [
+      14,
+      27
+    ]
+  }
+]
